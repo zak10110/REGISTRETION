@@ -17,7 +17,7 @@ namespace REgistr
         {
             InitializeComponent();
         }
-
+        //GG
         private void button1_Click(object sender, EventArgs e)
         {
             if (!File.Exists($"{textBox1.Text}.txt"))
